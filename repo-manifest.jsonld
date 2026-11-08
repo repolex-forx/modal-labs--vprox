@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/vprox/commit/4d5a397cf1a5bbc54f33f47589d3de396ec64be3",
       "git:hexsha": "4d5a397cf1a5bbc54f33f47589d3de396ec64be3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.0.15"
     },
     {
